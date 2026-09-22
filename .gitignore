@@ -1,0 +1,10 @@
+.env
+config.json
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+data/*.json
+data/*_clean.csv
+data/*_quarantine.csv
+data/webhooks.jsonl
