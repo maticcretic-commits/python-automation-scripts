@@ -1,0 +1,6 @@
+Customer ID,Customer Name,E-mail,Signup Date
+1,Alice Sharma,alice@example.com,2024-01-15
+2,Bob Verma,bob-at-example.com,15/02/2024
+3,Carol Iyer,,2024-03-01
+4,Dan Rao,dan@example.com,not-a-date
+5,Eve Nair,eve@example.com,2024/04/10
