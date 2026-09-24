@@ -1,5 +1,10 @@
 # python-automation-scripts
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/python-automation-scripts?style=social)](https://github.com/maticcretic-commits/python-automation-scripts/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/python-automation-scripts)](https://github.com/maticcretic-commits/python-automation-scripts/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/python-automation-scripts)
+
+
 A **practice/demo toolkit** of reusable Python automation scripts — API syncing,
 CSV cleanup, scheduled job running, and webhook receiving — built for learning.
 It is modeled on the skills listed in a real Upwork posting for a
